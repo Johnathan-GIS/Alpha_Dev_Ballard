@@ -1,16 +1,18 @@
 # Alpha_Dev_Ballard
-First CIS 376 project by Johnathan Ballard
-In this project, it is my first project. It is a basic project but I am expanding and adding new code to the code provided. I added a table, Python code selection and an image all about Garfield index.html
+First CIS 376 project by Johnathan Ballard.
+This project is my first project.
+It is a basic project, but I am expanding and adding new code to the code provided. 
 This project is all about Garfield, with two tables of Garfield characters and two images.
 
 ## Garfield 
 The #1 streaming site for one lazy orange cat.
-Garfield has two big movies and two big TV series and several other smaller movies and series. Garfield was first created in 1978.
+Garfield has two big movies and two big TV series and several other smaller movies and series. 
+Garfield was first created in 1978.
 ## Assets 
 There are two Images
 There is one HTML file
 There is one Javascript
-There is one CSS
+There is one CSS file
 
 ## Adds In
 I added 10 characters from the Garfield show
