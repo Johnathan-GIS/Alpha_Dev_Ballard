@@ -1,5 +1,5 @@
 # Alpha_Dev_Ballard
-First CIS 376 project 
+First CIS 376 project by Johnathan Ballard
 In this project, it is my first project. It is a basic project but I am expanding and adding new code to the code provided. I added a table, Python code selection and an image all about Garfield index.html
 This project is all about Garfield, with two tables of Garfield characters and two images.
 
